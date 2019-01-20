@@ -2,7 +2,7 @@
 A list of books I want to keep track of.
 
 
-## My Top Recomendations
+## My Top Recomendations To You
 - **Dune by Frank Herbert.** An amazing book about what it is to lead, the impermanence of our universe, and the experience of life.
 - **Army of None by Paul Scharre.** The reasons A.I. weapons aren't as scary as you thought, and also some reasons you never thought of for why they are even scarier. 
 - **The Conscience of a Conservative by Barry Goldwater.** An important narative in the age of Trump. 
@@ -10,7 +10,7 @@ A list of books I want to keep track of.
 - **Walden by Henry David Thoreau.** A philosophical classic and masterpiece of the transcendentalist, the core belief of which is in the inherent goodness of people and nature. 
 
 
-## To Read Next
+## My Read Next List
 
 
 ## Finished Reading (since 2017)
