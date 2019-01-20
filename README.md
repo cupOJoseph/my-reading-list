@@ -18,15 +18,18 @@ A list of books I want to keep track of.
 - Zero to One by Peter Thiel
 - Chaos Monkies by Antonio Garcia Martinez  
 - Army of None by Paul Scharre
+- Originals: How Non-Conformists Move the World by Adam Grant
 - Blockchain and the Law by Aaron Wright
 - The Conscience of a Conservative by Barry Goldwater
 - Art Inc. by Meg Mateo Ilasco
 - Seeds of Hope by Jane Goodall
 - Into the Wild by Jon Krakauer
+- The Hard Thing About Hard Things by Ben Horowitz
 - Watchmen by Alan Moore. Maybe technically a comic but I'm counting it.
 - Benjamin Franklin by Walter Isaacson
 - Alibaba by Duncan Clark
 - The Hobbit by J.R.R. Tolkien 
+- How Google Works by Eric Schmidt
 
 ## Recommendations From Others
 Please make a pull request to add more recommendations. 
