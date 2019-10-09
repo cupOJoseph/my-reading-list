@@ -12,14 +12,15 @@ A list of books I want to keep track of.
 
 ## My Read Next List
 
-
 ## Finished Reading
+
 ### 2019
 - Agricultural and Urban Areas (Biomes of the Earth) by Peter Moore
 - Dune by Frank Herbert
 - Power from the Wind: A Practical Guide to Small-Scale Energy Production by Dan Chiras
 - The Mom Test by Rob Fitzpatrick
--  Power down : options and actions for a post-carbon world by Dan Chiras, Mick Sagrillo, Ian Woofenden
+- Power down : options and actions for a post-carbon world by Dan Chiras, Mick Sagrillo, Ian Woofenden
+- Ludicrous: The Unvarnished Story of Tesla Motors by Edward Niedermeyer
 
 ### 2016 - 2018
 - Dune by Frank Herbert
@@ -37,6 +38,7 @@ A list of books I want to keep track of.
 - Benjamin Franklin by Walter Isaacson
 - Alibaba by Duncan Clark
 - The Hobbit by J.R.R. Tolkien 
+- Elon Musk: Tesla, SpaceX, and the Quest for a Fantastic Future by Ashlee Vance
 - How Google Works by Eric Schmidt
 
 ## Recommendations From Others
