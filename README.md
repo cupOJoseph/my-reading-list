@@ -13,7 +13,15 @@ A list of books I want to keep track of.
 ## My Read Next List
 
 
-## Finished Reading (since 2017)
+## Finished Reading
+### 2019
+- Agricultural and Urban Areas (Biomes of the Earth) by Peter Moore
+- Dune by Frank Herbert
+- Power from the Wind: A Practical Guide to Small-Scale Energy Production by Dan Chiras
+- The Mom Test by Rob Fitzpatrick
+-  Power down : options and actions for a post-carbon world by Dan Chiras, Mick Sagrillo, Ian Woofenden
+
+### 2016 - 2018
 - Dune by Frank Herbert
 - Zero to One by Peter Thiel
 - Chaos Monkies by Antonio Garcia Martinez  
