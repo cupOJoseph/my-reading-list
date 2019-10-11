@@ -11,6 +11,7 @@ A list of books I want to keep track of.
 
 
 ## My Read Next List
+- Super Pumped
 
 ## Finished Reading
 
