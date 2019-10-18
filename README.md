@@ -22,6 +22,7 @@ A list of books I want to keep track of.
 - The Mom Test by Rob Fitzpatrick
 - Power down : options and actions for a post-carbon world by Dan Chiras, Mick Sagrillo, Ian Woofenden
 - Ludicrous: The Unvarnished Story of Tesla Motors by Edward Niedermeyer
+- Platform: the art and science of personal branding by Cynthia Johnson
 
 ### 2016 - 2018
 - Dune by Frank Herbert
