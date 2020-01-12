@@ -6,14 +6,20 @@ A list of books I want to keep track of.
 - **Dune by Frank Herbert.** An amazing book about what it is to lead, the impermanence of our universe, and the experience of life.
 - **Army of None by Paul Scharre.** The reasons A.I. weapons aren't as scary as you thought, and also some reasons you never thought of for why they are even scarier. 
 - **The Conscience of a Conservative by Barry Goldwater.** An important narative in the age of Trump. 
-- **Onward by Howard Schultz.** It is possible to create a great successful company while staying true to one's original values as told by the founder of Starbucks.
-- **Walden by Henry David Thoreau.** A philosophical classic and masterpiece of the transcendentalist, the core belief of which is in the inherent goodness of people and nature. 
+- **Onward by Howard Schultz.** It *is* possible to create a great successful company while staying true to one's original values as told by the founder of Starbucks.
+- **Walden by Henry David Thoreau.** A philosophical classic and masterpiece of the transcendentalists, the core belief of which is in the inherent goodness of people and nature. 
 
 
 ## My Read Next List
 - Super Pumped
+- The Memo
 
 ## Finished Reading
+
+### 2020
+- Dune by Frank Herbert
+- How We'll Live on Mars by Steven Petranek
+- Artificial Unintelligence by Meredith Broussard 
 
 ### 2019
 - Agricultural and Urban Areas (Biomes of the Earth) by Peter Moore
@@ -24,7 +30,7 @@ A list of books I want to keep track of.
 - Ludicrous: The Unvarnished Story of Tesla Motors by Edward Niedermeyer
 - Platform: the art and science of personal branding by Cynthia Johnson
 
-### 2016 - 2018
+### 2018
 - Dune by Frank Herbert
 - Zero to One by Peter Thiel
 - Chaos Monkies by Antonio Garcia Martinez  
