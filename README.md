@@ -19,7 +19,8 @@ A list of books I want to keep track of.
 ### 2020
 - Dune by Frank Herbert
 - How We'll Live on Mars by Steven Petranek
-- Artificial Unintelligence by Meredith Broussard 
+- Artificial Unintelligence by Meredith Broussard
+- The Book of Swindles by Yingyu Zhang
 
 ### 2019
 - Agricultural and Urban Areas (Biomes of the Earth) by Peter Moore
