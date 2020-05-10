@@ -5,12 +5,12 @@ A list of books I want to keep track of.
 ## My Top Recomendations To You
 - **Dune by Frank Herbert.** An amazing book about what it is to lead, the impermanence of our universe, and the experience of life.
 - **Army of None by Paul Scharre.** The reasons A.I. weapons aren't as scary as you thought, and also some reasons you never thought of for why they are even scarier. 
-- **The Conscience of a Conservative by Barry Goldwater.** An important narative in the age of Trump. 
 - **Onward by Howard Schultz.** It *is* possible to create a great successful company while staying true to one's original values as told by the founder of Starbucks.
 - **Walden by Henry David Thoreau.** A philosophical classic and masterpiece of the transcendentalists, the core belief of which is in the inherent goodness of people and nature. 
 
 
 ## My Read Next List
+- Development as Freedom by Amartya Sen
 - Super Pumped
 - The Memo
 
@@ -21,6 +21,8 @@ A list of books I want to keep track of.
 - How We'll Live on Mars by Steven Petranek
 - Artificial Unintelligence by Meredith Broussard
 - The Book of Swindles by Yingyu Zhang
+- Rich Dad, Poor Dad by Robert Kiyosaki
+- Urban Forests by Jill Jonnes
 
 ### 2019
 - Agricultural and Urban Areas (Biomes of the Earth) by Peter Moore
