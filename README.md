@@ -10,7 +10,6 @@ A list of books I want to keep track of.
 
 
 ## My Read Next List
-- Development as Freedom by Amartya Sen
 - Super Pumped
 - The Memo
 
@@ -23,6 +22,8 @@ A list of books I want to keep track of.
 - The Book of Swindles by Yingyu Zhang
 - Rich Dad, Poor Dad by Robert Kiyosaki
 - Urban Forests by Jill Jonnes
+- Algorithms of Oppression by Safiya Noble
+- The Happy City by Charles Montgomery
 
 ### 2019
 - Agricultural and Urban Areas (Biomes of the Earth) by Peter Moore
@@ -32,6 +33,7 @@ A list of books I want to keep track of.
 - Power down : options and actions for a post-carbon world by Dan Chiras, Mick Sagrillo, Ian Woofenden
 - Ludicrous: The Unvarnished Story of Tesla Motors by Edward Niedermeyer
 - Platform: the art and science of personal branding by Cynthia Johnson
+- Grandma Gatewood's Walk by Ben Montgomery
 
 ### 2018
 - Dune by Frank Herbert
@@ -45,7 +47,7 @@ A list of books I want to keep track of.
 - Seeds of Hope by Jane Goodall
 - Into the Wild by Jon Krakauer
 - The Hard Thing About Hard Things by Ben Horowitz
-- Watchmen by Alan Moore. Maybe technically a comic but I'm counting it.
+- Watchmen by Alan Moore
 - Benjamin Franklin by Walter Isaacson
 - Alibaba by Duncan Clark
 - The Hobbit by J.R.R. Tolkien 
