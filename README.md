@@ -4,6 +4,7 @@ A list of books I want to keep track of.
 
 ## My Top Recomendations To You
 - **Dune by Frank Herbert.** An amazing book about what it is to lead, the impermanence of our universe, and the experience of life.
+- **The Happy City by Charles Montgomery** Urban sprawl and detached suburban neighborhoods were never developed naturally. They were laid out, MASSIVELY subsidized by gov, and legally mandated long before anyone actually bought a house there. By exploring our relationship with the city through history and today we can learn to build human centered cities that make us happier and are more sustainable.
 - **Army of None by Paul Scharre.** The reasons A.I. weapons aren't as scary as you thought, and also some reasons you never thought of for why they are even scarier. 
 - **Onward by Howard Schultz.** It *is* possible to create a great successful company while staying true to one's original values as told by the founder of Starbucks.
 - **Walden by Henry David Thoreau.** A philosophical classic and masterpiece of the transcendentalists, the core belief of which is in the inherent goodness of people and nature. 
