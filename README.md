@@ -16,6 +16,12 @@ A list of books I want to keep track of.
 
 ## Finished Reading
 
+### 2021
+- Montessori : the science behind the genius by Angeline Stoll. Lillard
+- Vue.js: Up and Running: Building Accessible and Performant Web Apps by Callum Macrae
+- Carrots love tomatoes : secrets of companion planting for successful gardening by Riotte, Louise.
+- All new square foot gardening : the revolutionary way to grow more in less space by Mel Bartholomew.
+
 ### 2020
 - Dune by Frank Herbert
 - How We'll Live on Mars by Steven Petranek
@@ -25,6 +31,7 @@ A list of books I want to keep track of.
 - Urban Forests by Jill Jonnes
 - Algorithms of Oppression by Safiya Noble
 - The Happy City by Charles Montgomery
+- Big magic : creative living beyond fear by Elizabeth Gilbert
 
 ### 2019
 - Agricultural and Urban Areas (Biomes of the Earth) by Peter Moore
