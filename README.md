@@ -17,6 +17,8 @@ A list of books I want to keep track of.
 ## Finished Reading
 
 ### 2021
+- The Sprawl: Reconsidering The Weird American Suburbs by Jason Diamond
+- Cool Cities: Urban Sovereignty And The Fix For Global Warming by Benjamin Barber
 - Montessori : the science behind the genius by Angeline Stoll. Lillard
 - Vue.js: Up and Running: Building Accessible and Performant Web Apps by Callum Macrae
 - Carrots love tomatoes : secrets of companion planting for successful gardening by Riotte, Louise.
