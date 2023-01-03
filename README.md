@@ -16,6 +16,14 @@ A list of books I want to keep track of.
 
 ## Finished Reading
 
+### 2022
+- The Inner Life of Animals by Peter Wohileben
+- Building the Cycling City by Chris Brunlett
+- Single Dating Engaged Married by Ben Stuart
+- Beowulf by Unknown
+- The Path to a Livable Future by Stan Cox
+- Vegan Bodybuilding Cookbook by Sarah Meyers
+
 ### 2021
 - The Sprawl: Reconsidering The Weird American Suburbs by Jason Diamond
 - Cool Cities: Urban Sovereignty And The Fix For Global Warming by Benjamin Barber
