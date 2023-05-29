@@ -3,10 +3,9 @@ A list of books I want to keep track of.
 
 
 ## My Top Recomendations To You
-- **Dune by Frank Herbert.** An amazing book about what it is to lead, the impermanence of our universe, and the experience of life.
-- **The Happy City by Charles Montgomery** Urban sprawl and detached suburban neighborhoods were never developed naturally. They were laid out, MASSIVELY subsidized by gov, and legally mandated long before anyone actually bought a house there. By exploring our relationship with the city through history and today we can learn to build human centered cities that make us happier and are more sustainable.
+- **Dune by Frank Herbert.** An amazing book about what it is to lead, the impermanence of our universe, and the experience of life. A cautionary tale about the dangers of savior type leaders, and humanity's delicate relationship with nature. 
+- **The Happy City by Charles Montgomery** Urban sprawl and detached suburban neighborhoods were never developed naturally. They were laid out, MASSIVELY subsidized by government, and legally mandated long before anyone actually bought a house there. By exploring our relationship with the city through history and today we can learn to build human centered cities that make us happier and are more sustainable.
 - **Army of None by Paul Scharre.** The reasons A.I. weapons aren't as scary as you thought, and also some reasons you never thought of for why they are even scarier. 
-- **Onward by Howard Schultz.** It *is* possible to create a great successful company while staying true to one's original values as told by the founder of Starbucks.
 - **Walden by Henry David Thoreau.** A philosophical classic and masterpiece of the transcendentalists, the core belief of which is in the inherent goodness of people and nature. 
 
 
@@ -16,9 +15,16 @@ A list of books I want to keep track of.
 
 ## Finished Reading
 
+### 2023
+- Color of Law: A Forgotten History of How Our Government Segregated America by Richard Rothstein
+- How to Invent Everything: A Survival Guide for the Stranded Time Traveler by Ryan North
+- The Sum of Us: What Racism Costs Everyone and How We Can Prosper Together by Heather McGhee
+- Dune by Frank Herbert
+- Palaces for the People by Eric Klinenberg 
+
 ### 2022
 - The Inner Life of Animals by Peter Wohileben
-- Building the Cycling City by Chris Brunlett
+- Building the Cycling City by Melissa Brunlett
 - Single Dating Engaged Married by Ben Stuart
 - Beowulf by Unknown
 - The Path to a Livable Future by Stan Cox
