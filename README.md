@@ -22,6 +22,7 @@ A list of books I want to keep track of.
 - Money: the true s­to­ry of a ­made-up thing. Gold­stein, Ja­cob
 
 ### 2024
+- A T­hou­sand s­mal­l­ san­i­ties: the ­moral ad­ven­ture of lib­er­al­ism.	Gop­nik, A­dam. 
 - On the edge: the art of risk­ing ev­ery­thing by Nate Silver
 - On ­fas­cis­m: 12 ­lesson­s from Amer­i­can his­to­ry by	Matthew C Macwilliams
 - End ­times: elites, ­coun­ter-elites, and the ­path of po­lit­i­cal ­dis­in­te­gra­tion	Peter Turch­in
