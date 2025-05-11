@@ -6,7 +6,7 @@ A list of books I want to keep track of.
 - **Dune by Frank Herbert.** An amazing book about what it is to lead, the impermanence of our universe, and the experience of life. A cautionary tale about the dangers of savior type leaders, and humanity's delicate relationship with nature. 
 - **The Happy City by Charles Montgomery** Urban sprawl and detached suburban neighborhoods were never developed naturally. They were laid out, MASSIVELY subsidized by government, and legally mandated long before anyone actually bought a house there. By exploring our relationship with the city through history and today we can learn to build human centered cities that make us happier and are more sustainable.
 - **Walden by Henry David Thoreau.** A philosophical classic and masterpiece of the transcendentalists, the core belief of which is in the inherent goodness of people and nature.
-- **Money: the true s­to­ry of a ­made-up thing by Jacob Gold­stein.** A history of money and monetary systems with some good lessons about what we can learn from the past. Money is ultimately made up, always has been, and understand this can be a tool of freedom.
+- **Money: the true s­to­ry of a ­made-up thing by Jacob Gold­stein.** A history of money and monetary systems with some good lessons about what we can learn from the past. Money is ultimately made up, always has been, and understanding this can be a tool of freedom.
 
 
 ## My Read Next List
