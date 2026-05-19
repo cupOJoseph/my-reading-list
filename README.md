@@ -14,6 +14,11 @@ A list of books I want to keep track of.
 
 ## Finished Reading
 
+### 2026
+- New York 2140 by Kim Stanley Robinson
+- Winning the Wellstone Way by Jeff Blodgett and Bill Lofy
+- Korean Messiah by Grayson Lee
+
 ### 2025
 - The squad: AOC and the hope of a po­lit­i­cal rev­o­lu­tion	by Ryan Grim
 - Disil­lu­sioned: ­five ­fam­i­lies and the un­rav­el­ing of Amer­i­ca's ­sub­urbs	Benjamin Herold
